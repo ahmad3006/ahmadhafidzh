@@ -1,30 +1,51 @@
-# 👋 Hello, I'm Ahmad Hafidzh
-## ⚡ Electrical Engineer | 💡 Future Innovator
+<!-- # 👋 Hello, I'm Ahmad Hafidzh
+## ⚡ Electrical Engineer | 💡 Future Innovator -->
 
-![Ahmad Hafidzh](/img/170614256.jpg)
+![Ahmad Hafidzh](/img/github-header-image.png)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/namamu)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge)](https://instagram.com/namamu)
+<!-- 🌐 **Let's Connect!**
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmad-hafidzh-alfareza-03a522268/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ahmadhfzalfa/?next=%2F) [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/ahmad3006) 
 
 🛠️ **Current Skills**:  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)  
-![AutoCAD](https://img.shields.io/badge/AutoCAD-D50000?logo=autodesk&logoColor=white&style=for-the-badge)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,opencv,c,python,autocad,arduino,)](https://skillicons.dev)
 
 ---
 
 - 🚀⚡ Currently an **electrical engineering student** at [**University of Brawijaya**](https://www.instagram.com/univ.brawijaya/).
 
-- 🟢 ⚡Part of [**Society of Renewable Energy (SRE) Universitas Brawijaya**](https://www.instagram.com/sre.ub/) as an **Associate Competition**
+- 🟢⚡Part of [**Society of Renewable Energy (SRE) Universitas Brawijaya**](https://www.instagram.com/sre.ub/) as an **Associate Competition**
 
+👨‍💻 **GitHub Stats:**
+
+[![Hafidzh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmad3006&show_icons=true&theme=highcontrast)]
 ![hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE3MmllaWQyOGlwZnc1cDBsZzdkcjN1dG5ld2J5ZHNmN21jMWkxeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5k5vZwRFZR5aZeniqb/giphy.gif)
 
 
 
 
 
+ -->
 
+## 💫 About Me:
+👋 Hello, I'm Ahmad Hafidzh Alfareza<br>⚡ Electrical Engineer | 💡 Future Innovator<br><br>🚀⚡ Currently an electrical engineering student at University of Brawijaya.<br>🟢⚡Part of Society of Renewable Energy (SRE) Universitas Brawijaya as an Associate Competition
+
+
+## 🌐 Socials:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahmad-hafidzh-alfareza-03a522268/) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ahmadhfzalfa/?next=%2F) [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/ahmad3006) 
+
+## 💻 Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,opencv,c,python,autocad,arduino,next,mongodb,tensorflow,github,arduino)](https://skillicons.dev)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmad3006&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahmad3006&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad3006&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmad3006&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=ahmad3006&icon=8&color=6)](https://visitcount.itsvg.in)
