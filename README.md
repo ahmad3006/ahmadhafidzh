@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Ahmad Hafidzh
 ## ⚡ Electrical Engineer | 💡 Future Innovator
 
-![Ahmad Hafidzh](img/1706142565524.jpg)
+![Ahmad Hafidzh](/img/170614256.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/namamu)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge)](https://instagram.com/namamu)
