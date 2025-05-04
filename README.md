@@ -58,6 +58,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ahmad3006/ahmad hafidzh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ahmad3006/ahmadhafidzh/output/snake.svg" alt="Snake animation" />
 
 ###
