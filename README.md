@@ -51,8 +51,8 @@
 [![](https://visitcount.itsvg.in/api?id=ahmad3006&icon=8&color=6)](https://visitcount.itsvg.in)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad3006/ahmad3006/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad3006/ahmad3006/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahmad3006/ahmadhafidzh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahmad3006/ahmadhafidzh/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ahmad3006/ahmad3006/output/pacman-contribution-graph.svg">
 </picture>
 
